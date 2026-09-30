@@ -20,7 +20,7 @@ avances y establecer áreas de mejora para continuar desarrollando mis conocimie
 En esta actividad que fue la primera actividad que se realizo se tenia que contestar la prueba diagnostica para conocer cuanto conocemos del tema,
 donde se conseguir sacar como mínimo un 70% de calificación
 Lo que aprendí durante esta actividad es que desconozco sobre la mayor parte del tema que estamos viendo y es necesario varios intentos hasta lograr mi objetivo
-y lo que debo mejorar es estudiar mas sobre los temas de la materia  
+y lo que debo mejorar es estudiar mas sobre los temas de la materia 
 # Tarea 2: Mapa conceptual  
 Durante esta actividad se realizo una investigación de los modelos de arquitectura de computador para realizar un mapa conceptual
 Lo que pude aprender durante esta actividad es lo diferentes modelos de la arquitectura de computo, la importancia que tuvieron en su momento y su funcionamiento
@@ -32,3 +32,12 @@ Los errores que tuve durante esta practica es conectando la ram a los componente
 Lo que puedo mejor es la atención a la hora de conectar los cables tener mas cuidado para evitar que de nuevo ocurra algún fallo    
 # Reporte de practica  
 PENDIENTE
+# Reflexión  
+comprendí que aprender un tema nuevo requiere dedicación, práctica y paciencia llega a ser frustrante al inició al poco conocimiento que pude notar que tenia pero
+conforme fui avanzando fui notando todo lo que fui aprendiendo y mejorando como asi aprendi a que cometer errores no significa fallar del todo si no que una vez
+mas estoy aprendiendo de mis errores para no volver a cometerlos y ser una mejor versión de mi mismo  
+# Conclusión
+las actividades realizadas durante la unidad me permitieron conocer y comprender mejor diferentes temas relacionados con la arquitectura de computadores. A 
+través de la prueba diagnóstica pude identificar los conocimientos que ya tenía y aquellos en los que necesitaba mejorar. Con el mapa conceptual aprendí sobre los 
+diferentes modelos de arquitectura y su importancia, mientras que con la práctica de RAM estática pude aplicar los conocimientos de una manera más práctica y 
+comprender su funcionamiento.
